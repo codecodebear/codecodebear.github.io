@@ -56,6 +56,19 @@ main {
     color: white;
     border-radius: 10px;
     margin-bottom: 3rem;
+    position: relative;
+}
+
+.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    object-fit: cover;
 }
 
 #hero h1 {
@@ -323,6 +336,12 @@ footer {
     
     #hero h1 {
         font-size: 2rem;
+    }
+    
+    .profile-image {
+        position: static;
+        margin: 0 auto 1.5rem;
+        display: block;
     }
     
     .contact-links {
