@@ -17,6 +17,6 @@ I am interested in the following directions:
 
 1. **Language Model Methods and Evaluation**: Developing and evaluating techniques to understand LLM/MLLM capabilities and limitations, including chain-of-thought reasoning, prompting strategies, retrieval-augmented generation, and mechanical interpretability approaches.
 
-2. **AI Safety**: Investigating faithfulness, fairness, sycophancy, and alignment issues in language models.
+2. **AI Safety**: Investigating faithfulness, fairness, sycophancy, reward-hacking, and alignment issues in language models.
 
-3. **Agents**: Exploring how multiple agents can work together to collaborate more intelligently with each other and with humans.
+3. **Agents**: Exploring agent learning and reasoning, multi-agent systems, and human-agent collaboration.
