@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Welcome to Shuowei's Homepage!"
+title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,8 +15,8 @@ I am a second year MS computer science and engineering student at Santa Clara Un
 
 I am interested in the following directions:
 
-1. **Language Model Reasoning and Evaluation**: Developing methods to evaluate and probe LLM/MLLM, including mechanical interpretability approaches, to understand their reasoning capabilities and limitations.
+1. **Language Model Methods and Evaluation**: Developing and evaluating techniques to understand LLM/MLLM capabilities and limitations, including chain-of-thought reasoning, prompting strategies, retrieval-augmented generation, and mechanical interpretability approaches.
 
-2. **AI Safety**: Investigating faithfulness, fairness, and alignment issues in language models.
+2. **AI Safety**: Investigating faithfulness, fairness, sycophancy, and alignment issues in language models.
 
 3. **Agents**: Exploring how multiple agents can work together to collaborate more intelligently with each other and with humans.
